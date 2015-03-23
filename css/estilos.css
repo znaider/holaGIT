@@ -3,3 +3,9 @@ body{
 	background-size: 50% 50%;
 	background-position: center;
 }
+
+section{
+	padding: 3em;
+	margin: 0 auto;
+	color: red;
+}
